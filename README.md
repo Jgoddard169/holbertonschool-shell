@@ -1,2 +1,2 @@
-This directory will have shell scripts for the following:
-1. List the pathname of the current working directory.
+This repository will be for the script exercises.
+
