@@ -1,3 +1,1 @@
-#!/bin/bash
-pwm
-
+This repository is for the shell exercises.
