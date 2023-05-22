@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $var=($BREATH**$LOVE) | echo $var
+echo $(($BREATH**$LOVE))
